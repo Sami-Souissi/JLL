@@ -20,7 +20,7 @@ This project has been tested on both windows and Linux using different compilers
 ## Installation
 Run:
 ```
-git clone https://github.com/Sami-Souissi/JLL/
+git clone https://github.com/Sami-Souissi/Simple_JSON
 ```
 
 Run 
