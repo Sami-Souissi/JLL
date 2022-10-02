@@ -1,4 +1,4 @@
-# JLL : JSON LIBRARY 
+# Simple JSON
 A JSON library with a wide range of tools for handling data, all written in C.
 
 ## Features
